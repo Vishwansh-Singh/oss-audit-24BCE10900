@@ -4,7 +4,7 @@
 **Registration Number:** 24BCE10900  
 **Course:** Open Source Software (OSS NGMC)  
 **Chosen Software:** Linux Kernel  
-**Slot:** [Your Slot]
+**Slot:** A24
 
 ---
 
